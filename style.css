@@ -326,6 +326,10 @@ li{
     margin-top: 80px;
 
 }
+.favcard1{
+    display: flex;
+    flex-direction: row;
+}
 
 .component1{
     display:flex;
